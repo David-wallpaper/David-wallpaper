@@ -10,7 +10,7 @@ I enjoy learning about software engineering, backend development, databases, com
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,java,cs" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,cs" />
 </p>
 
 ### Databases
