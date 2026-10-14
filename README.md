@@ -1,4 +1,4 @@
-# Hi, I'm David 👋
+# Hi, I'm David 
 
 🎓 Systems Engineering student passionate about software development, artificial intelligence, and building innovative solutions through technology.
 
