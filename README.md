@@ -78,7 +78,7 @@ A personal game development project inspired by classic animation aesthetics, fo
 <b>Tools & Platforms</b>
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,unity&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,unity&theme=dark" />
 </p>
 
 ---
